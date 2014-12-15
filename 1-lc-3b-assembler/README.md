@@ -2,6 +2,7 @@
 =================
 Assembler project for the Lc-3b architecture created by Yale Patt
 Created by: Brandon Wong and Duc Tran
+Creation Date: 1/30/2014
 
 Description: Assembler is to take the assembly language instruction set, and convert it
 to machine language based on the Lc-3b instruction set architecture. The program is also

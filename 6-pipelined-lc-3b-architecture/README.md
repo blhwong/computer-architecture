@@ -2,6 +2,7 @@
 ==============================
 Pipelined LC-3b Architecture
 Created by: Brandon Wong
+Creation Date: 5/1/2014
 
 This is different from everything up until the 5th project of the LC-3b.
 We essentially start from scratch and design a pipelined architecture for 

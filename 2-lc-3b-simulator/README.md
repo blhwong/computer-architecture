@@ -2,6 +2,7 @@
 =================
 LC-3B Simulator
 Created by: Brandon Wong and Duc Tran
+Creation Date: 2/6/2014
 
 take one input file which is an assembled LC3-b program. The simulator will execute
 the input LC-3b program, one instruction at a time, modifying the architectural state

@@ -2,6 +2,7 @@
 ====================
 LC-3b modified cycle level simulator
 Created by: Brandon Wong
+Creation Date: 3/9/2014
 
 Very similar to the original simulator, but it is a cycle level simulator.
 Rather than just the original instruction level simulator, it will traverse through
